@@ -10,3 +10,4 @@ for i in range(10):
 
 def f(x, y):
     return x**y
+print('x')
